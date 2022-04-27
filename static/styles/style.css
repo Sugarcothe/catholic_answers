@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap");
 
 :root {
-  --color-main: #cc6600;
+  --color-main: #1a0000;
   --color-main-light:  #b3ffb3;
   --color-dark: #006600;
   --color-dark-medium:  #b3ffb3;
@@ -96,7 +96,7 @@ a {
 
 .btn--main {
   background-color: var(--color-main);
-  color: var(--color-dark);
+  color: #b3ffb3;
 }
 
 .btn:hover {
